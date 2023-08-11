@@ -18,3 +18,16 @@ Communications (ICCC), 2019, pp. 370–378.
 and channel-robust radio frequency fingerprint identification for LoRa,”
 IEEE Trans. Inf. Forensics Security, vol. 17, no. 14, pp.774–787, 2022.
 
+## Code introduction
+utils--functions used for training and testing
+
+model--functions for building model
+
+data_load--load dataset
+
+config--hyperparameters and paths
+
+main--train and test
+## E-mail
+If you have any question, please feel free to contact us by e-mail (1022010435@njupt.edu.cn).
+
