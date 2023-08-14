@@ -24,6 +24,8 @@ model-->functions for building model
 
 data_load-->load dataset
 
+optimizer-->functions for optimizer (SGD and APGD)
+
 config-->hyperparameters and paths
 
 main-->train and test
